@@ -1,0 +1,33 @@
+{
+    "name": "InputMaster",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "45817e4c-7ece-4291-bf54-2993670fd987",
+            "actions": [
+                {
+                    "name": "Movement",
+                    "type": "Button",
+                    "id": "21db7b14-f847-4fbc-843c-12b4c87a9b32",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "cca4d541-3c19-4bb0-9a15-5a4d1d2d8953",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Movement",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -9,6 +9,8 @@ TagManager:
   - Piepiece
   - DeathTrigger
   - SpawnTrigger
+  - BoxEmplacement
+  - Sokobox
   layers:
   - Default
   - TransparentFX
